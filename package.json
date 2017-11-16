@@ -1,0 +1,22 @@
+{
+  "name": "npmfirstproject",
+  "version": "1.0.0",
+  "description": "firstProjectNpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uach2016/npm.git"
+  },
+  "author": "Albert Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uach2016/npm/issues"
+  },
+  "homepage": "https://github.com/uach2016/npm#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
